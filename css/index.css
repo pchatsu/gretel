@@ -412,6 +412,12 @@ h2.itemtitle {
 	padding-right: 20px;
 }
 
+#news li article img{
+	border-radius:10%;
+	-webkit-border-radius:10%;
+	-moz-border-radius:10%;
+}
+
 /* ----------------------------------------------------*/
 /* casestudy */
 
