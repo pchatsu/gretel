@@ -412,10 +412,16 @@ h2.itemtitle {
 	padding-right: 20px;
 }
 
+#news li .imgfit {
+	overflow:visible;
+}
+
 #news li article img{
 	border-radius:10%;
 	-webkit-border-radius:10%;
 	-moz-border-radius:10%;
+	border:5px #000 solid;
+	margin:5px;
 }
 
 /* ----------------------------------------------------*/
